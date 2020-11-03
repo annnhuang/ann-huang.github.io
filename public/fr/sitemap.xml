@@ -119,19 +119,6 @@
                     hreflang="fr"
                     href="https://ann-huang.github.io/fr/tags/installation/"
                     /></url><url>
-            <loc>https://ann-huang.github.io/fr/posts/</loc><lastmod>2020-11-03T22:32:45&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ann-huang.github.io/posts/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ann-huang.github.io/zh-cn/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="fr"
-                    href="https://ann-huang.github.io/fr/posts/"
-                    /></url><url>
             <loc>https://ann-huang.github.io/fr/</loc><lastmod>2020-11-03T22:32:45&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -144,6 +131,19 @@
                     rel="alternate"
                     hreflang="fr"
                     href="https://ann-huang.github.io/fr/"
+                    /></url><url>
+            <loc>https://ann-huang.github.io/fr/posts/</loc><lastmod>2020-11-03T22:32:45&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ann-huang.github.io/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ann-huang.github.io/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="https://ann-huang.github.io/fr/posts/"
                     /></url><url>
             <loc>https://ann-huang.github.io/fr/tags/</loc><lastmod>2020-11-03T22:32:45&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
